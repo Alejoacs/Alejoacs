@@ -1,112 +1,83 @@
-<h1 align="left">¡Hey 👋, qué tal!</h1>
-
-###
-
-<p align="left">Mi nombre es Alejandro Acevedo, y soy un Tecnólogo en Desarrollo de Software de Colombia. Tengo 18 años y me apasiona la tecnología y la programación. Mi enfoque está en desarrollar aplicaciones full-stack con prácticas modernas y código limpio.</p>
-
-###
-
-<h2 align="left">Sobre mí</h2>
-
-###
-
-<p align="left">✨ Escribo código desde los 16 años.<br>📚 Actualmente estoy aprendiendo nuevas tecnologias mas enfocadas a Power Platform.<br>🎯 Mi objetivo es convertirme en uno de los mejores en mi campo.<br>🎲 Dato curioso: Al principio no me gustaba la programación backend, ¡pero ahora soy un excelente desarrollador back-end!</p>
-
-###
-
-<h2 align="left">🔧 Tecnologías y herramientas que uso</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-</div>
-
-###
-
-<h2 align="left">📊 Estadísticas de GitHub</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejoacs&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alejoacs&locale=es&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="gráfico de lenguajes" />
-</div>
-
-###
-
-<!-- <h2 align="left">Proyectos Destacados</h2>
-
-<div align="left">
-  <h3>CooKie</h3>
-  <p>Descripción breve del Proyecto 1. Explica qué hace, qué tecnologías utilizaste y cualquier dato relevante que quieras destacar.</p>
-  <p><a href="URL_DEL_REPOSITORIO_DEL_PROYECTO_1" target="_blank">Ver Proyecto</a></p>
-</div>
-
-<div align="left">
-  <h3>Proyecto 2: Nombre del Proyecto 2</h3>
-  <p>Descripción breve del Proyecto 2. Explica qué hace, qué tecnologías utilizaste y cualquier dato relevante que quieras destacar.</p>
-  <p><a href="URL_DEL_REPOSITORIO_DEL_PROYECTO_2" target="_blank">Ver Proyecto</a></p>
-</div>
-
-<div align="left">
-  <h3>Proyecto 3: Nombre del Proyecto 3</h3>
-  <p>Descripción breve del Proyecto 3. Explica qué hace, qué tecnologías utilizaste y cualquier dato relevante que quieras destacar.</p>
-  <p><a href="URL_DEL_REPOSITORIO_DEL_PROYECTO_3" target="_blank">Ver Proyecto</a></p>
-</div> -->
-
+<h1 align="center">Hola, soy Alejo 👋</h1>
+<h3 align="center">Desarrollador Fullstack | Apasionado por el backend, Power Platform y soluciones eficientes</h3>
 
 ---
 
-<h2 align="left">📫 Cómo contactarme</h2>
+### 🧠 Sobre mí
 
-###
-
-<p align="left">
-  Puedes contactarme a través de las siguientes plataformas:
+<p align="center">
+  💻 Soy Diego Acevedo, pero todos me dicen <strong>Alejo</strong>.  
+  <br>
+  👨‍💻 Tengo 19 años y comencé en el mundo del desarrollo desde los 16.  
+  <br>
+  🚀 Hoy en día trabajo construyendo soluciones con tecnologías modernas como <strong>Node.js, React, Next.js y Power Platform</strong>.
 </p>
 
-- 📧 Correo: acevedosernadiego@gmail.com
-- 💼 LinkedIn: ""
-- 🐦 Twitter: ""
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,python,tailwindcss,figma,git" />
+</div>
 
 ---
 
-<h2 align="left">🛠️ ¿Cómo contribuir?</h2>
+### 🌱 Actualmente estoy enfocado en:
 
-###
-
-<p align="left">Si deseas contribuir a alguno de mis proyectos o tienes alguna idea, no dudes en abrir un issue o contactarme. ¡Aprecio mucho cualquier aporte!</p>
-
----
-
-<h2 align="left">🎉 Algunos datos curiosos</h2>
-
-###
-
-<ul>
-  <li>🎮 Me encanta jugar videojuegos en mi tiempo libre.</li>
-  <li>📖 Soy un ávido deportista</li>
-  <li>🐈 Tengo una gata llamada sol.</li>
-</ul>
+- 🔧 Automatización de procesos con Power Platform.
+- 🔗 Integraciones entre backend y servicios externos (APIs, SQL, etc.).
+- 📈 Aprender más sobre arquitectura de software y buenas prácticas.
 
 ---
 
-<h2 align="left">💡 ¡Conectemos!</h2>
+### 📊 GitHub Stats
 
-<p align="left">No dudes en conectarte conmigo, siempre estoy abierto a colaborar en proyectos y aprender cosas nuevas. ¡Será un placer trabajar contigo!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejoacs&show_icons=true&theme=radical&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejoacs&layout=compact&theme=radical&langs_count=6&hide_border=false" height="150" />
+</div>
 
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Alerta Violeta** | App móvil de ayuda en casos de violencia de género. | React Native, Firebase |
+| **Gestor de Mantenimientos** | Sistema para gestionar mantenimientos en tiendas. | Power Apps, Power Automate, SQL |
+| **Guía de Transporte** | Automatiza la creación de guías logísticas. | Power Platform, Envíame API |
+
+*¿Querés saber más? [¡Escríbeme!](mailto:acevedosernadiego@gmail.com)*
+
+---
+
+### 📫 Cómo contactarme
+
+<p >
+  📧 <a href="mailto:acevedosernadiego@gmail.com">Ir al correo</a>  
+  <br>
+  💼 <a href="https://www.linkedin.com/in/diego-alejandro-acevedo-serna-7135ab2a8/" target="_blank">Ir al LinkedIn</a>  
+</p>
+
+---
+
+### 🎮 Hobbies y datos curiosos
+
+- 🎮 Me gusta jugar videojuegos en mis ratos libres.
+- 🏋️‍♂️ Disfruto hacer ejercicio y mantenerme activo.
+- 🐱 Tengo una gata llamada Sol (es mi compañera fiel de código).
+
+---
+
+### 🤝 ¿Trabajamos juntos?
+
+<p>
+  Si tenés una idea o proyecto en el que pueda aportar, ¡contá conmigo!  
+  <br>
+  Estoy abierto a colaborar, aprender y construir cosas increíbles.  
+</p>
+
+---
+
+<p align="center"><strong>¡Gracias por visitar mi perfil! 🙌</strong></p>
